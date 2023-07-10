@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Çim Gjoka @Luis-Git-007
+- 👋 Hi, I’m Luis Gjoka @Luis-Git-007
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Python, Math and Git
 - 💞️ I’m looking to collaborate on learning as much as possible about Python and ML
